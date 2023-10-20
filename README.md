@@ -25,6 +25,15 @@ Project](https://eventide-project.org/).
 - [Best Practices Are Just Practices](best-practices.md)
 - [We Don't Run Tests on a Continous Integration Server](continuous-integration.md)
 
+## Notifications
+
+If you would like to be notified of new articles:
+
+1. Click **Watch**
+2. Click **Custom**
+3. Select **Discussions**
+4. Click **Apply**
+
 ---
 
 Copyright Aaron Jensen 2023-present
