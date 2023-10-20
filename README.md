@@ -24,6 +24,7 @@ Project](https://eventide-project.org/).
 - [Technical Debt vs. Incomplete Work](technical-debt-vs-incomplete-work.md)
 - [Best Practices Are Just Practices](best-practices.md)
 - [We Don't Run Tests on a Continous Integration Server](continuous-integration.md)
+- [Subject-First Commit Messages](commit-messages.md)
 
 ## Notifications
 
