@@ -1,4 +1,4 @@
-[← Home](README.md)
+[← Articles](README.md#articles)
 
 # Technical Debt vs. Incomplete Work
 
