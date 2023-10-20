@@ -7,7 +7,7 @@ this content reflects the way that our current software team operates.
 
 My name is Aaron Jensen. I've been professionally developing software and
 leading software teams since 1998. I work at
-[Substantial](https://substantial.com/), a design and development product
+[Substantial](https://substantial.com/), a design and development product studio
 originally based in Seattle, WA.
 
 - [LinkedIn](https://www.linkedin.com/in/aaronjensen/)
