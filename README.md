@@ -22,6 +22,7 @@ Project](https://eventide-project.org/).
 ## Articles
 
 - [Technical Debt vs. Incomplete Work](technical-debt-vs-incomplete-work.md)
+- [Best Practices Are Just Practices](best-practices.md)
 
 ---
 
