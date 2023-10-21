@@ -129,3 +129,9 @@ Here are some guidelines that we follow:
 - Don't bother with the 50 character subject rule, make the first line as long
   as it needs to be. Brevity is useful, but 50 characters is too limiting in my
   experience.
+
+[Comments](https://github.com/aaronjensen/software-development/discussions/4)
+
+---
+
+Copyright Aaron Jensen 2023-present

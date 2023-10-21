@@ -93,6 +93,8 @@ your team is striving to complete work, things will get better. You will be able
 to build on past work by reusing both code and techniques. Your team will be
 able to do more with less, instead of less with more.
 
+[Comments](https://github.com/aaronjensen/software-development/discussions/1)
+
 ---
 
 Copyright Aaron Jensen 2023-present

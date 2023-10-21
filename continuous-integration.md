@@ -133,3 +133,9 @@ that is seen as inferior and unnecessary.
   learning. I believe that if a team went through this process they would get
   better, but every team is going to vary in its ability to do this and the time
   it would take to accomplish it.
+
+[Comments](https://github.com/aaronjensen/software-development/discussions/3)
+
+---
+
+Copyright Aaron Jensen 2023-present

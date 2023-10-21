@@ -39,3 +39,9 @@ taking a look at anything that your team considers a "best practice" or anything
 that they hold dear, and asking, "What problem does this solve?" Then, see if
 there are ways to eliminate that problem or less elaborate ways to address it.
 You might be surprised.
+
+[Comments](https://github.com/aaronjensen/software-development/discussions/2)
+
+---
+
+Copyright Aaron Jensen 2023-present
