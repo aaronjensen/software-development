@@ -25,6 +25,7 @@ Project](https://eventide-project.org/).
 - [Best Practices Are Just Practices](best-practices.md)
 - [We Don't Run Tests on a Continous Integration Server](continuous-integration.md)
 - [Subject-First Commit Messages](commit-messages.md)
+- [Partitions and Compositions](partitions-and-compositions.md)
 
 ## Notifications
 
