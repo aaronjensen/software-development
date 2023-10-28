@@ -26,6 +26,7 @@ Project](https://eventide-project.org/).
 - [We Don't Run Tests on a Continous Integration Server](continuous-integration.md)
 - [Subject-First Commit Messages](commit-messages.md)
 - [Partitions and Compositions](partitions-and-compositions.md)
+- [Special Cause Variation](special-variation.md)
 
 ## Notifications
 
