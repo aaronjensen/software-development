@@ -45,13 +45,14 @@ server (e.g., Rails API) into their own repositories, which was actually its own
 kind of mistake. I wish that I had learned the effectiveness of building
 separate packages earlier in my career.
 
-I recently watched a talk from 2023 Rails World where the speaker was discussing
-their product's transition from a monolith, to separate services, and then back
-to a monolith. One of the reasons they gave for their return to the monolith was
-that the monolith had additional capabilities that were being refined and
-improving over time that the separate services did not have. For the services
-that were Java (their monolith was Ruby), I could understand this. For their
-services that were Ruby, this made absolutely no sense. Why weren't those
+I recently watched [a talk from 2023 Rails
+World](https://www.youtube.com/watch?v=wV1Yva-Dp4Y) where the speaker was
+discussing their product's transition from a monolith, to separate services, and
+then back to a monolith. One of the reasons they gave for their return to the
+monolith was that the monolith had additional capabilities that were being
+refined and improving over time that the separate services did not have. For the
+services that were Java (their monolith was Ruby), I could understand this. For
+their services that were Ruby, this made absolutely no sense. Why weren't those
 capabilities that were developed for one Ruby application usable in another? The
 only thing that I could imagine was that they fell prey to the problem I'm
 attempting to point to in this article.
