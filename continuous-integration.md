@@ -37,6 +37,12 @@ noticed the next time that a developer is in that codebase. We have successfully
 noticed when newcomers to the team do not use prettier to format their code and
 have instructed them to do so without need for automated checks. Of note is that
 our newly authored JavaScript code does not use TypeScript, eslint, or prettier.
+If that sounds insane to you, then consider these two things: 1. Our team
+doesn't need these tools to **thoughtfully** adhere to our standards or be
+productive. As a matter of fact, we are more productive without them. 2. Our
+team employs specific countermeasures for specific circumstances and we do not
+have the circumstances that necessitate any of those tools. Your team may or may
+not. Ours doesn't.
 
 The checks for styling do not prevent bugs, and they do not provide any
 additional notification to problems that we do not already have by working as a
