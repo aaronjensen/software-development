@@ -13,15 +13,16 @@ version of the code might slow you down in the future, akin to paying interest.
 
 Unfortunately, many teams have effectively turned the term into an excuse to
 write code poorly with the expressed, but not often realized, intent to
-"refactor" (this term is often misused) it later. Usually this goes along with a
-"just ship it" or "move fast and break things" attitude. Teams will often refer
-to the parts of their codebase that are problematic or resistant to changes as
-"technical debt". Often, these problems will not be addressed, and they will
-build on top of the code and encasement will occur, making it even more
-difficult to change later. Or, as they would call it, more technical debt would
-be added. Furthermore, introducing technical debt is sometimes described as an
-investment. When combined with changing the meaning to mean poorly written code,
-this is especially dangerous. Investments should not weigh you down.
+"refactor" it later. I put "refactor" in quotes because it is another frequently
+misused word. Usually this goes along with a "just ship it" or "move fast and
+break things" attitude. Teams will often refer to the parts of their codebase
+that are problematic or resistant to changes as "technical debt". Often, these
+problems will not be addressed, and they will build on top of the code and
+encasement will occur, making it even more difficult to change later. Or, as
+they would call it, more technical debt would be added. Furthermore, introducing
+technical debt is sometimes described as an investment. When combined with
+changing the meaning to mean poorly written code, this is especially dangerous.
+Investments should not weigh you down.
 
 We avoid this term entirely, and instead prefer to recognize that anything that
 has design problems, is written poorly, is unclear, or unnecessarily deviates
@@ -54,13 +55,13 @@ Incomplete work can slow us down in many ways:
   to more and more incomplete work, which leads to more and more setbacks until,
   ultimately, the team's productivity drops precipitously.
 
-I believe there is only one real answer to incomplete work: complete the work.
+I believe there is only one real answer to incomplete work: finish the work.
 This is often easier said than done. There are usually pressures from the
 business to produce more business value. It is often easier to ignore incomplete
 work and build on top of it in the short term. However, the short term is just
 the short term. Unless your business has little money left and must produce
-value to get more, or it has unlimited money in order to scale a development team
-exponentially, the medium and long term have to be considered. Otherwise
+value to get more, or it has unlimited money in order to scale a development
+team exponentially, the medium and long term have to be considered. Otherwise
 development risks reaching the seemingly inevitable slowdown that almost all
 teams encounter.
 
