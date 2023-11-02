@@ -37,13 +37,13 @@ I'm quite sure that most people who have experience doing or trying these things
 would answer that combining things that are already separate is far easier than
 separating things that are already combined. The reason for this is typically
 coupling and entanglement. When things are developed and built together they are
-often tightly coupled. Even if things are loosely coupled, those couplings may
-create a sprawling graph that can be difficult to understand and may even have
-cycles. You may have fallen into the trap of "Fat Model, Skinny Controller" and
-find that you have a single `User` or `Product` class that most of your code
-depends on. In all likelihood, it may be impossible to split an application into
-more than one part that was developed as a single monolithic application. At
-least, not without rewriting it.
+often entangled, or what designers refer to as "tightly coupled". Even if things
+are loosely coupled, those couplings may create a sprawling web that can be
+difficult to understand, and may even have cycles. You may have fallen into the
+trap of "Fat Model, Skinny Controller" and find that you have a single `User` or
+`Product` class that most of your code depends on. In all likelihood, it may be
+impossible to split an application into more than one part that was developed as
+a single monolithic application. At least, not without rewriting it.
 
 Contrast that with combining things, which is often as easy as moving files
 around. There are also multiple ways to combine things. You can combine
@@ -53,7 +53,7 @@ application with the service. You can combine web servers by deploying them
 separately and adding a proxy server like nginx. Or, you could combine them all
 into a single repository or even a single deployed application. The point is,
 once things are separate (or partitioned), it is easy to combine them. If they
-are entangled &mdash; I'm intentionally avoiding the word combined here, which
+are entangled &mdash; I'm intentionally avoiding the word "combined" here, which
 implies that they are separate &mdash; they can be near impossible to separate.
 
 I quite like this quote that was referenced in ["Object Thinking" by David
@@ -124,13 +124,20 @@ around the world in completely different domains than our application.
 
 ## Effort
 
-I'm not going to lie: it takes more work to build separate libraries than it
-does to build everything into a single application &mdash; at first. But, only
-at first. You have to learn how to do it. You have to develop techniques for
-dealing with the boilerplate, such as template projects or code-migration
-scripts that can be used to update multiple repositories at once. But, once you
-have done these things, the benefits start to become so apparent, they are
-impossible not to appreciate.
+It takes more work to build separate libraries than it does to build everything
+into a single application, but only initially. There are two dimensions that are
+more challenging. The first is that you must learn new skills do to this, but
+that's something you have already spent a lifetime doing. The second is that it
+takes more effort up front to establish patterns and libraries for your specific
+project. This gets easier and takes less effort as your team gets better at it.
+You will have to develop techniques for dealing with the boilerplate (e.g.,
+template projects) and learn how to make changes across multiple repositories
+(e.g., with code-migration scripts).
+
+Once you have done these things, the benefits start to become so apparent, they
+are impossible not to appreciate. The momentary slowdown is infinitesimal
+compared to the acceleration that will happen over the life of the project as a
+result of proper decomposition.
 
 ## Benefits
 
