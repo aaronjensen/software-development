@@ -77,10 +77,13 @@ practice"](./best-practices.md).
 The second style likely feels foreign, and possibly uncomfortable. It's passive
 voice and present tense &mdash; all the things that we aren't supposed to make
 our commit messages. So why do the Eventide project and many teams that use
-Eventide choose to use this style of commit messages? Because it is more
-scannable. It is optimized for human cognition. Humans don't tend to read when
-looking at lists unless they absolutely need to. We scan. And when we scan, we
-want to see the most important things come first.
+Eventide choose to use this subject-first style of commit messages? Because it
+is more scannable. It is optimized for human cognition. Humans don't tend to
+read when looking at lists unless they absolutely need to. We scan. And when we
+scan, we want to see the most important things come first. Furthermore, the
+subject-first commit message style makes the commit about the change, rather
+than it being about what the person did that made the change. It's not about the
+self. It's about the code.
 
 ## Check Your Own Repository
 
