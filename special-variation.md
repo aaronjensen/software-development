@@ -49,54 +49,70 @@ other than where they are used to without significant investment. Significant
 investment, memorization, and relearning are likely to become more and more
 necessary for the team.
 
-Now, imagine that you have a team with norms established. You write tests in
-certain ways, you adhere to a particular code style, you use a common voice in
-your commit messages, you practice software design in particular ways, etc. In
-other words, you have some amount of predictability, and when you go from one
-area of the code to another, things look familiar. You start to gain some
-significant efficiency as a team. You can reuse patterns, you can better
-understand code at a glance, and you may even start to realize some
-predictability in the amount of time it takes to accomplish a task.
+Now, imagine that you have a team with norms established. These norms are all
+rooted in design fundamentals and they do not reflect personal style choices.
+They must be defensible from a software design position, and not merely a
+reflection of who the most powerful team member is. You write tests in certain
+ways, you adhere to a particular code style, you use a common voice in your
+commit messages, you practice software design in particular ways, etc. In other
+words, you have some amount of predictability, and when you go from one area of
+the code to another, things look familiar. You start to gain some significant
+efficiency as a team. You can reuse patterns, you can better understand code at
+a glance, and you may even start to realize some predictability in the amount of
+time it takes to accomplish a task.
 
 What happens when someone does something counter to the norms? Let's say they
 use a `_` in URL path, rather than a `-`, or they title-case the label of a
 button, rather than sentence-case it. When you encounter this, it should stop
 you in your tracks. You will be required to understand why this was done in this
-way. You likely need to `git blame` and ask the author. If you find that it was
-done this way for a reason, you need to add a comment explaining it so that the
-next person that encounters it will not be as impacted. If it was a mistake, you
-will need to socialize it with the team so that the team can learn from the
-mistake and it can be avoided next time. All of this takes time and energy. All
-of it is a setback and does not add value for the customer.
+way. You likely need to `git blame` and ask the author. If you find that the
+deviation was intentional and necessary, you need to add a comment explaining it
+so that the next person that encounters it will not have to repeat the same
+essential inquiry and investigation. If it was a mistake, you will need to
+socialize it with the team so that the team can learn from the mistake and it
+can be avoided next time. All of this takes time and energy. If a team member is
+sent down an investigatory path that leads to a dead end, then we've wasted the
+coworker's time and the company's money. It's not only wasteful, but it's
+disrespectful to colleagues.
 
 ## Causes and Countermeasures
 
 Special variation has a real cost on a project. It necessitates extra effort
 from everyone involved. Ultimately, in my experience, there are only a few
-ultimate causes on a team that values norms and standards: lack of attention,
-and lack of care.
+proximate causes on a team that values norms and standards: lack of experience,
+lack of attention, and lack of care.
 
 A team that values norms and standards is likely going to have some sort of
 documentation of them. They are also going to have examples in code that are
-relatively consistent &mdash; we call these exemplars. When starting on a task,
-it should be relatively easy to find previous examples of how something similar
-to what they are doing is done. If a team member can't find them, they can
-always ask the team. If there aren't any exemplars, then it is novel work and
-likely requires some consultation with senior members of the team so that norms
-can be established for that novel task.
+relatively consistent &mdash; we call these "exemplars". When starting on a
+task, it should be relatively easy to find previous examples of how something
+similar is done. If a team member can't find them, they can always ask other
+members of the team. If there aren't any exemplars, then it is novel work and
+likely requires some consultation with senior members of the team so that new
+norms can be established.
 
-### Lack of attention
+### Lack of Experience
+
+When a person lacks the experience to correctly execute on the team's norms and
+standards, it is the responsibility of the team to ensure that they are properly
+coached, mentored, and paired with so that their lack of experience does not
+result in the introduction of special variation. The blame for a failure to do
+this does not rest on the individual, but on the team culture, process, and
+management. It should be addressed by management and the team at large, by
+whatever means necessary, so that the next team member that joins has the
+support they need and learns what the team values from the beginning.
+
+### Lack of Attention
 
 All of this requires attention to detail. It means that you can't be on
 auto-pilot and just do things the way you have done them on past projects, or
 the way that you naturally do them (naturally here means "without thinking",
 which should make the problem self-evident). It means stopping yourself
 constantly and asking, "What could I be doing wrong right now?" Fortunately, we
-typically have a pair (or more) watching what we are doing and participating.
-The other people working with us add to our attention and should be catching the
-things that we are missing. If a person isn't paying attention, and their pair
-isn't paying attention, you will inevitably end up with special variation or
-other mistakes.
+typically have a pair (or more) engaged in our work as well. The other people
+working with us add to our attention and should be catching the things that we
+are missing. If a person isn't paying attention, and their pair isn't paying
+attention, you will inevitably end up with special variation or other mistakes.
 
 Solving lack of attention is a challenge. I've already mentioned one
 countermeasure: pair-programming, or ensemble (mob) programming. There are also
@@ -122,14 +138,14 @@ becomes more of a management or HR concern. If a person does not care about the
 team, they likely do not belong on the team and they will probably be happier
 elsewhere. The harder way to do it, but also potentially more rewarding for
 everyone, is to help them to see the impact they are having. In other words, to
-help them to develop empathy for their team.
+help them to develop empathy and respect for their team.
 
 ### Team Discussion
 
 On our team, when a mistake is made, or when special variation is found, we
-discuss it at our daily sync (we don't do a stand-up meeting, we do what amounts
+discuss it at our daily sync up (we don't do a stand-up meeting, we do what amounts
 to a daily discussion about the things that matter in that moment). We talk
-about what was found, what problems it caused, often who introduced it, and
+about what was found, what problems it caused, and often who introduced it, and
 potentially why they introduced it. We also use the time as an opportunity to
 reinforce the importance of reducing special variation and various techniques
 that can be applied to do that. This is meant to be an exercise in learning, not
@@ -173,8 +189,8 @@ preferred technique so that a norm can be established and applied.
 
 It takes a lot of work to maintain and enforce norms and standards on a team.
 Each team will have their own challenges and their own ways of dealing with
-them. Our team has just over 10 people, which is important to keep in mind when
-considering what is written here. That's not to say that reducing special
+them. Our team has around a dozen people, which is important to keep in mind
+when considering what is written here. That's not to say that reducing special
 variation isn't viable for larger teams, it's just to say that different
 countermeasures would be required. We require different countermeasures than we
 did when our team was only 4 people.
