@@ -13,7 +13,8 @@ longer in use, and another technique was used instead. Frustrated, the friend
 asked which technique was better, which was not a question that the Toyota hosts
 understood. The cognitive dissonance demonstrated here is a result of one party
 believing that something was a "best practice" and another party recognizing
-that that practice was a specific countermeasure to a specific circumstance.
+that that practice was a specific countermeasure to a specific circumstance, and
+that specific circumstances may be limited to specific moments in time.
 
 The software development community is filled with assertions of "best
 practices". Some of these are downright harmful, while others are merely
@@ -31,7 +32,8 @@ my situation, I just need to blindly follow the suggestion. Those who push or
 cite best practices often (intentionally or not) want to convince you of
 something without requiring or asking you to think for yourself. This can stop
 learning and inquisitiveness in its tracks, but it is very tempting to take this
-shortcut.
+shortcut. Be warned, however, that this is adhering to orthodoxy, rather than
+practicing engineering and continuous improvement.
 
 We aren't actually going to get better unless we challenge the status quo. Best
 practices are, at best, average practices. We can always improve. I'd suggest
