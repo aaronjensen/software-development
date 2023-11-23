@@ -28,6 +28,7 @@ Project](https://eventide-project.org/).
 - [Partitions and Compositions](partitions-and-compositions.md)
 - [Special Cause Variation](special-variation.md)
 - [The Mythical Monolith](monoliths.md)
+- [The Four Cs of Software Packages](packages.md)
 
 ## Notifications
 
