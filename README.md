@@ -32,7 +32,9 @@ Project](https://eventide-project.org/).
 
 ## Notifications
 
-If you would like to be notified of new articles:
+If you would like to be notified when new articles are posted, subscribe to [this discussion](https://github.com/aaronjensen/software-development/discussions/8).
+
+Alternatively, if you would like to be notified when new articles are posted and of new comments on any article:
 
 1. Click **Watch**
 2. Click **Custom**
