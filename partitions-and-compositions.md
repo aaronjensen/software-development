@@ -87,6 +87,8 @@ This is not a guide for doing partitioning. I don't think that a useful guide co
 
 [Subscribe to be notified of new articles](https://github.com/aaronjensen/software-development/discussions/8)
 
+[All Articles](https://github.com/aaronjensen/software-development/blob/master/README.md#articles)
+
 ---
 
 Copyright Aaron Jensen 2023-present

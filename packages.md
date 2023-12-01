@@ -50,6 +50,8 @@ I should also note that if you are the Ruby world, I'm talking about Ruby Gems h
 
 [Subscribe to be notified of new articles](https://github.com/aaronjensen/software-development/discussions/8)
 
+[All Articles](https://github.com/aaronjensen/software-development/blob/master/README.md#articles)
+
 ---
 
 Copyright Aaron Jensen 2023-present

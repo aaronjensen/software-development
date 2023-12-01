@@ -24,6 +24,8 @@ When you use `rails new`, you get 75 separate packages. Why stop there?
 
 [Subscribe to be notified of new articles](https://github.com/aaronjensen/software-development/discussions/8)
 
+[All Articles](https://github.com/aaronjensen/software-development/blob/master/README.md#articles)
+
 ---
 
 Copyright Aaron Jensen 2023-present
