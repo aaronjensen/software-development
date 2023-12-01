@@ -46,6 +46,8 @@ This is only scratching the surface of the knowledge it takes to build packages.
 
 I should also note that if you are the Ruby world, I'm talking about Ruby Gems here, rather than things like Packwerk packages. I've not used Packwerk, and in general, I would recommend separate repositories and the hard partitioning that Ruby Gems enforces rather than the speculative "partitioning" that Packwerk allows and encourages.
 
+---
+
 [Comments](https://github.com/aaronjensen/software-development/discussions/9)
 
 [Subscribe to be notified of new articles](https://github.com/aaronjensen/software-development/discussions/8)

@@ -97,6 +97,8 @@ Here are some guidelines that we follow:
 - When describing a version increase, be explicit about both the old and the new version. E.g., "Package version is increased from 1.1.1 to 1.2.0"
 - Don't bother with the 50 character subject rule, make the first line as long as it needs to be. Brevity is useful, but 50 characters is too limiting in my experience.
 
+---
+
 [Comments](https://github.com/aaronjensen/software-development/discussions/4)
 
 [Subscribe to be notified of new articles](https://github.com/aaronjensen/software-development/discussions/8)

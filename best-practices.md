@@ -12,6 +12,8 @@ Furthermore, if it is best, I don't need to examine whether or not it applies to
 
 We aren't actually going to get better unless we challenge the status quo. Best practices are, at best, average practices. We can always improve. I'd suggest taking a look at anything that your team considers a "best practice" or anything that they hold dear, and asking, "What problem does this solve?" Then, see if there are ways to eliminate that problem or less elaborate ways to address it. You might be surprised.
 
+---
+
 [Comments](https://github.com/aaronjensen/software-development/discussions/2)
 
 [Subscribe to be notified of new articles](https://github.com/aaronjensen/software-development/discussions/8)

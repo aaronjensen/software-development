@@ -22,6 +22,8 @@ Not all incomplete work will be able to be completed. I recommend writing it all
 
 In software and in many other things in life, things are either getting better or they are getting worse. Very few things stand still. If your team is leaving behind incomplete work, they are leaving behind hazards and future setbacks. They are choosing short-term gain for long-term pain. Things will get worse. If your team is striving to complete work, things will get better. You will be able to build on past work by reusing both code and techniques. Your team will be able to do more with less, instead of less with more.
 
+---
+
 [Comments](https://github.com/aaronjensen/software-development/discussions/1)
 
 [Subscribe to be notified of new articles](https://github.com/aaronjensen/software-development/discussions/8)

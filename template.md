@@ -4,6 +4,8 @@
 
 [Article content]
 
+---
+
 [Comments](https://github.com/aaronjensen/software-development/discussions/[Discussion ID])
 
 [Subscribe to be notified of new articles](https://github.com/aaronjensen/software-development/discussions/8)

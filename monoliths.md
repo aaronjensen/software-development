@@ -20,6 +20,8 @@ Contrast this with our team which has tens of separately deployed web applicatio
 
 When you use `rails new`, you get 75 separate packages. Why stop there?
 
+---
+
 [Comments](https://github.com/aaronjensen/software-development/discussions/7)
 
 [Subscribe to be notified of new articles](https://github.com/aaronjensen/software-development/discussions/8)

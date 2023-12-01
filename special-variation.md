@@ -60,6 +60,8 @@ By reducing special variation, you increase a team's cohesion, skill, and capabi
 
 Software doesn't have to get harder to maintain over time, but it takes intention to ensure that it does not.
 
+---
+
 [Comments](https://github.com/aaronjensen/software-development/discussions/6)
 
 [Subscribe to be notified of new articles](https://github.com/aaronjensen/software-development/discussions/8)

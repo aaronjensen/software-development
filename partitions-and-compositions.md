@@ -83,6 +83,8 @@ This is not a guide for doing partitioning. I don't think that a useful guide co
 - [Afference: The Silent Killer](https://madabout.software/articles/afference-the-silent-killer/)
 - [SAGE: Early Warning System for Design Mistakes](https://madabout.software/articles/sage-early-warning-system-for-design-mistakes/)
 
+---
+
 [Comments](https://github.com/aaronjensen/software-development/discussions/5)
 
 [Subscribe to be notified of new articles](https://github.com/aaronjensen/software-development/discussions/8)

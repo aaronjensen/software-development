@@ -57,6 +57,8 @@ As previously mentioned, our team values interactive tests. When CI is available
 - Our team does use a CI server for deployment. This is a technical necessity and we would stop doing it if we could.
 - We started without CI servers for tests, so our team culture grew around that. If a team were to shut off their CI server that they had relied on for years, there would likely be a lot of challenges, regressions, and necessary learning. I believe that if a team went through this process they would get better, but every team is going to vary in its ability to do this and the time it would take to accomplish it.
 
+---
+
 [Comments](https://github.com/aaronjensen/software-development/discussions/3)
 
 [Subscribe to be notified of new articles](https://github.com/aaronjensen/software-development/discussions/8)
