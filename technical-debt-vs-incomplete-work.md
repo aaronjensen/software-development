@@ -24,6 +24,8 @@ In software and in many other things in life, things are either getting better o
 
 [Comments](https://github.com/aaronjensen/software-development/discussions/1)
 
+[Subscribe to be notified of new articles](https://github.com/aaronjensen/software-development/discussions/8)
+
 ---
 
 Copyright Aaron Jensen 2023-present

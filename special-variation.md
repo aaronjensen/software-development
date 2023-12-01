@@ -62,6 +62,8 @@ Software doesn't have to get harder to maintain over time, but it takes intentio
 
 [Comments](https://github.com/aaronjensen/software-development/discussions/6)
 
+[Subscribe to be notified of new articles](https://github.com/aaronjensen/software-development/discussions/8)
+
 ---
 
 Copyright Aaron Jensen 2023-present

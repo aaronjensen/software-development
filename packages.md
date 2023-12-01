@@ -48,6 +48,8 @@ I should also note that if you are the Ruby world, I'm talking about Ruby Gems h
 
 [Comments](https://github.com/aaronjensen/software-development/discussions/9)
 
+[Subscribe to be notified of new articles](https://github.com/aaronjensen/software-development/discussions/8)
+
 ---
 
 Copyright Aaron Jensen 2023-present

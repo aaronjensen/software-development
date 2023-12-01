@@ -14,6 +14,8 @@ We aren't actually going to get better unless we challenge the status quo. Best 
 
 [Comments](https://github.com/aaronjensen/software-development/discussions/2)
 
+[Subscribe to be notified of new articles](https://github.com/aaronjensen/software-development/discussions/8)
+
 ---
 
 Copyright Aaron Jensen 2023-present

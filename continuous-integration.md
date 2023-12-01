@@ -59,6 +59,8 @@ As previously mentioned, our team values interactive tests. When CI is available
 
 [Comments](https://github.com/aaronjensen/software-development/discussions/3)
 
+[Subscribe to be notified of new articles](https://github.com/aaronjensen/software-development/discussions/8)
+
 ---
 
 Copyright Aaron Jensen 2023-present
