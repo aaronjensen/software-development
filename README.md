@@ -23,6 +23,7 @@ Many of the ideas and practices I am attempting to communicate were taught to me
 - [Special Cause Variation](special-variation.md)
 - [The Mythical Monolith](monoliths.md)
 - [The Four Cs of Software Packages](packages.md)
+- [Purported Advantages of Monolithic Repositories (Monorepos)](monorepo-advantages.md)
 
 ## Notifications
 
