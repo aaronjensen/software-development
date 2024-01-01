@@ -15,6 +15,7 @@ Many of the ideas and practices I am attempting to communicate were taught to me
 
 ## Articles
 
+- Read this first: [The Goal: Continuity](continuity.md)
 - [Technical Debt vs. Incomplete Work](technical-debt-vs-incomplete-work.md)
 - [Best Practices Are Just Practices](best-practices.md)
 - [We Don't Run Tests on a Continous Integration Server](continuous-integration.md)
