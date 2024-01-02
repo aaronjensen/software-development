@@ -2,6 +2,13 @@
 
 # The Mythical Monolith
 
+> [!NOTE]
+> This article is a description of just a small part of our development process. Our goal with all of our practices is to enable developers to be just as productive on old projects as they are on new projects.
+>
+> I'd recommend starting with this article that describes that goal:
+>
+> [The Goal: Continuity](./continuity.md)
+
 I realized recently that I've never seen a monolith &mdash; majestic or otherwise. Every time that I look at something someone else labels a monolith, I find a `Gemfile`, `package.json`, or similar file teeming with dependencies. Even `rails new` produces a web application with 74 dependencies. Adding the applications itself, you get 75 modules. So, is a monolith an application that only has 75 [partitions](partitions-and-compositions.md)?
 
 While I acknowledge I'm playing with the word's definition, I think that this is an interesting way to look at the issue. When we start a new project, we start it with 75 partitions. We then proceed to add file after file, class after class, module after module, and many we rarely even consider creating a new package (RubyGem, NPM Package, etc.). We are effectively declaring that packages are for "them" and "we" don't need them. Is it because they are open-source? Is it because they are separate teams or separate people?

@@ -2,6 +2,13 @@
 
 # The Four Cs of Software Packages
 
+> [!NOTE]
+> This article is a description of just a small part of our development process. Our goal with all of our practices is to enable developers to be just as productive on old projects as they are on new projects.
+>
+> I'd recommend starting with this article that describes that goal:
+>
+> [The Goal: Continuity](./continuity.md)
+
 A software package is a collection of code that is contained and distributed as a single unit. Most modern programming languages include a packaging mechanism. For Ruby, this is Ruby Gems, and for Node.js, it's NPM. Almost every project using one of these languages is going to use a number of these packages. It's so typical that it's hardly worth mentioning. What is less typical, however, is software teams building and privately distributing their own packages for use in their own project or projects.
 
 The reasons for this are many. I've written about [monoliths](./monoliths.md) and about the [importance and benefits of partitioning](./partitions-and-compositions.md), so I will not rehash any of that here. Instead, I'll attempt to address what I believe is one of the most significant factors in software teams not building their own packages: they don't know how to do it. Said another way, it's unfamiliar or even hard.

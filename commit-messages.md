@@ -2,6 +2,13 @@
 
 # Subject-First Commit Messages
 
+> [!NOTE]
+> This article is a description of just a small part of our development process. Our goal with all of our practices is to enable developers to be just as productive on old projects as they are on new projects.
+>
+> I'd recommend starting with this article that describes that goal:
+>
+> [The Goal: Continuity](./continuity.md)
+
 Take a moment and scan, not read, the following list as quickly as you can:
 
 ```

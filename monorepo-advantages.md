@@ -2,6 +2,13 @@
 
 # Purported Advantages of Monolithic Repositories (Monorepos)
 
+> [!NOTE]
+> This article is a description of just a small part of our development process. Our goal with all of our practices is to enable developers to be just as productive on old projects as they are on new projects.
+>
+> I'd recommend starting with this article that describes that goal:
+>
+> [The Goal: Continuity](./continuity.md)
+
 In 2015, [6to5 was renamed to Babel](https://babeljs.io/blog/2015/02/15/not-born-to-die). Not too long after that, the Babel project was transitioned to be a monorepo, meaning that all of its code across its (currently) over 150 packages are contained in a single Git repository. At the time, it was considered shocking by many developers to put all of your code into a single repository, but [Google](https://www.youtube.com/watch?v=W71BTkUbdqE), and other large companies (e.g., [Twitter](https://www.youtube.com/watch?v=bjh4DHuOf4E)) and projects (e.g., [Linux](https://github.com/torvalds/linux)) did it, and it was well advocated for, so it fairly quickly became accepted. Many even considered it a [best practice](./best-practices.md).
 
 This is just a personal anecdote, but I remember that one of the primary benefits being cited at the time for open source projects was that it eased issue management on GitHub. Maintainers grew tired of having to monitor 100 issue lists and manually recreate issues that people filed in the wrong repository. At the time, GitHub did not have tooling to move issues and, if I remember correctly, it didn't have a good answer for aggregating issues across repositories in a single organization other than search. So, in order to combat GitHub missing the mark on tooling for open source maintainers, open source maintainers combined all of their nicely [partitioned](./partitions-and-compositions.md) code into a single repository.

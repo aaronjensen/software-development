@@ -2,6 +2,13 @@
 
 # Technical Debt vs. Incomplete Work
 
+> [!NOTE]
+> This article is a description of just a small part of our development process. Our goal with all of our practices is to enable developers to be just as productive on old projects as they are on new projects.
+>
+> I'd recommend starting with this article that describes that goal:
+>
+> [The Goal: Continuity](./continuity.md)
+
 The [debt metaphor](http://c2.com/doc/oopsla92.html) was introduced in 1992 by Ward Cunningham. Since then it has become commonly known as "Technical Debt" and is a term used (and misused) by many software teams. In [a video from Ward Cunningham](https://www.youtube.com/watch?v=pqeJFYwnkjE), it is described as well-written code that reflects your current understanding, with the knowledge that you will eventually refactor or update the code to reflect future understandings and updates to the design. It reflects the idea that the current version of the code might slow you down in the future, akin to paying interest.
 
 Unfortunately, many teams have effectively turned the term into an excuse to write code poorly with the expressed, but not often realized, intent to "refactor" it later. I put "refactor" in quotes because it is another frequently misused word. Usually this goes along with a "just ship it" or "move fast and break things" attitude. Teams will often refer to the parts of their codebase that are problematic or resistant to changes as "technical debt". Often, these problems will not be addressed, and they will build on top of the code and encasement will occur, making it even more difficult to change later. Or, as they would call it, more technical debt would be added. Furthermore, introducing technical debt is sometimes described as an investment. When combined with changing the meaning to mean poorly written code, this is especially dangerous. Investments should not weigh you down.

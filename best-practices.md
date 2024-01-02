@@ -2,6 +2,13 @@
 
 # Best Practices Are Just Practices
 
+> [!NOTE]
+> This article is a description of just a small part of our development process. Our goal with all of our practices is to enable developers to be just as productive on old projects as they are on new projects.
+>
+> I'd recommend starting with this article that describes that goal:
+>
+> [The Goal: Continuity](./continuity.md)
+
 In the first chapter of ["Toyota Kata: Managing People for Improvement, Adaptiveness and Superior Results"](https://www.amazon.com/Toyota-Kata-Managing-Improvement-Adaptiveness/dp/0071635238), Mike Rother tells a story about a friend who observed "flow racks" being used during a Toyota factory tour. What they are doesn't particularly matter, but many people copied this technique for their own production systems. When the friend toured the same factory again, they observed that "flow racks" were no longer in use, and another technique was used instead. Frustrated, the friend asked which technique was better, which was not a question that the Toyota hosts understood. The cognitive dissonance demonstrated here is a result of one party believing that something was a "best practice" and another party recognizing that that practice was a specific countermeasure to a specific circumstance, and that specific circumstances may be limited to specific moments in time.
 
 The software development community is filled with assertions of "best practices". Some of these are downright harmful, while others are merely contextual. It would be ridiculous to consider any practice truly "best". Different circumstances call for different countermeasures. Labeling any practice "best" only has problematic effects.

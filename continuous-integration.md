@@ -2,6 +2,13 @@
 
 # We Don't Run Tests on a Continuous Integration Server
 
+> [!NOTE]
+> This article is a description of just a small part of our development process. Our goal with all of our practices is to enable developers to be just as productive on old projects as they are on new projects.
+>
+> I'd recommend starting with this article that describes that goal:
+>
+> [The Goal: Continuity](./continuity.md)
+
 I and the teams I have been on have used continuous integration (CI) servers to run tests at least since the first version of TeamCity was released in 2006. I, and many others considered this a ["best practice"](./best-practices.md). My current team does not use CI servers to run tests. We have hundreds of software repositories and we only run tests on our local machines.
 
 ## Problems That Continuous Integration Is Meant to Address

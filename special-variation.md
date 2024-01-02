@@ -2,6 +2,13 @@
 
 # Special Cause Variation
 
+> [!NOTE]
+> This article is a description of just a small part of our development process. Our goal with all of our practices is to enable developers to be just as productive on old projects as they are on new projects.
+>
+> I'd recommend starting with this article that describes that goal:
+>
+> [The Goal: Continuity](./continuity.md)
+
 ## Manufacturing
 
 The manufacturing world discusses [two types of variation](https://www.isixsigma.com/dictionary/special-cause-variation/): common cause variation and special cause variation. Common cause variation is variation within control limits (i.e., acceptable or expected variation), while special cause variation is variation that falls outside of those limits. It is typically considered a problem to be addressed.
