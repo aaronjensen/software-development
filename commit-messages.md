@@ -87,6 +87,14 @@ git log --oneline | grep -v Merge | cut -d' ' -f2 | head -50
 
 What do you see? Imagine that's all you see when you scan. That's not a perfect simulation, as when we scan we may pattern match further into the string, we may read two words or so, we may teach ourselves that the first word is unimportant and try to skip it, but all of that requires additional effort. Our job is hard enough as it is, so we want to take every chance we can to make it easier on ourselves.
 
+## Research
+
+Like all of our process and design decisions, we decided to use this technique based on a-priori knowledge, research, first principles, and observation. Here are a few links to related research with regard to list processing (which is how commit message summaries are often consumed). Note that we did not refer to these specific articles when making our decision, these are just examples.
+
+- [First 2 Words: A Signal for the Scanning Eye](https://www.nngroup.com/articles/first-2-words-a-signal-for-scanning/)
+- [Text Scanning Patterns: Eyetracking Evidence](https://www.nngroup.com/articles/text-scanning-patterns-eyetracking/)
+- [The Anatomy of a List Entry](https://www.nngroup.com/articles/list-entries/)
+
 ## Personal Experience
 
 When I first encountered the subject-first naming style that the Eventide project uses, I didn't like it. I didn't like it because of my own bias and my preference to conform to what is "common". It didn't look like what I was used to and I argued against it initially. I eventually recognized the benefit of scannability and decided to try it on my current team. It took some time to get used to writing messages in that style, and every new team member requires some amount of training and reinforcement. We are now three years in to using this style and our team now has a strong preference for it.
