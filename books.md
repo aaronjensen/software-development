@@ -47,6 +47,9 @@ A very good treatment on management by ensuring that those being managed have au
 
 I believe this book is still overly influenced by Scrum and "Kanban", but there is much in it that is thought provoking and useful. Consider it a mid-point between big-A Agile and Lean.
 
+### [The New Economics](https://amzn.to/3T792N1)
+
+The most recent book by W. Edwards Deming that details his 14 Points for Management. Essentially a list of important things to consider and employ when running your team or company.
 
 ## Software Design and Development
 
