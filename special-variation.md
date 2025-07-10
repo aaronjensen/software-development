@@ -63,7 +63,7 @@ As we grow as a team, discover new techniques, or realize old techniques were pr
 
 It takes a lot of work to maintain and enforce norms and standards on a team. Each team will have their own challenges and their own ways of dealing with them. Our team has around a dozen people, which is important to keep in mind when considering what is written here. That's not to say that reducing special variation isn't viable for larger teams, it's just to say that different countermeasures would be required. We require different countermeasures than we did when our team was only 4 people.
 
-By reducing special variation, you increase a team's cohesion, skill, and capability. Code gets easier to maintain (or at least doesn't get harder), and, as the number norms and standards grow, so do opportunities for abstractions, templates, documentation, scripts, or other tools to help the team deliver value faster. Because the team is actively engaged in applying the norms, they are also continually questioning them and staying open to opportunities to improve them.
+By reducing special variation, you increase a team's cohesion, skill, and capability. Code gets easier to maintain (or at least doesn't get harder), and, as the number of norms and standards grow, so do opportunities for abstractions, templates, documentation, scripts, or other tools to help the team deliver value faster. Because the team is actively engaged in applying the norms, they are also continually questioning them and staying open to opportunities to improve them.
 
 Software doesn't have to get harder to maintain over time, but it takes intention to ensure that it does not.
 
