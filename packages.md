@@ -51,7 +51,7 @@ We typically indicate the first certification of a package by increasing its ver
 
 This is only scratching the surface of the knowledge it takes to build packages. There is hidden depth in each of these points that will only be discovered and realized with continued practice. It does get easier. You will start to develop further intuition. It will actually start to feel unnatural to "just put more code in your monolith/monorepo".
 
-I should also note that if you are the Ruby world, I'm talking about Ruby Gems here, rather than things like Packwerk packages. I've not used Packwerk, and in general, I would recommend separate repositories and the hard partitioning that Ruby Gems enforces rather than the speculative "partitioning" that Packwerk allows and encourages.
+I should also note that if you are in the Ruby world, I'm talking about Ruby Gems here, rather than things like Packwerk packages. I've not used Packwerk, and in general, I would recommend separate repositories and the hard partitioning that Ruby Gems enforces rather than the speculative "partitioning" that Packwerk allows and encourages.
 
 ---
 
