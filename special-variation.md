@@ -29,7 +29,7 @@ What happens when someone does something counter to the norms? Let's say they us
 
 ## Causes and Countermeasures
 
-Special variation has a real cost on a project. It necessitates extra effort from everyone involved. Ultimately, in my experience, there are only a few proximate causes on a team that values norms and standards: lack of experience, lack of attention, and lack of care.
+Special variation has a real cost on a project. It necessitates extra effort from everyone involved. In my experience, there are only a few proximate causes of special variation on a team that values norms and standards: lack of experience, lack of attention, and lack of care.
 
 A team that values norms and standards is likely going to have some sort of documentation of them. They are also going to have examples in code that are relatively consistent &mdash; we call these "exemplars". When starting on a task, it should be relatively easy to find previous examples of how something similar is done. If a team member can't find them, they can always ask other members of the team. If there aren't any exemplars, then it is novel work and likely requires some consultation with senior members of the team so that new norms can be established.
 
